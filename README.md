@@ -25,7 +25,6 @@ To run this application, follow these steps:
 2. **Clone the repository:**
     ```sh
     git clone https://github.com/rushikeshya/Motivational-Quote-App-Using-Python.git
-    cd motivational-quote-app
     ```
 
 3. **Run the application:**
